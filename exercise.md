@@ -114,15 +114,15 @@ AI **will take parts of many jobs** and **create parts of new jobs**. Some roles
 **- ILO Working Paper (2023) – Generative AI and Jobs** (augmentation vs automation; clerical exposure): https://webapps.ilo.org/static/english/intserv/working-papers/wp096/index.html  
 **- OECD Employment Outlook 2023 – AI & Labour Market** (early evidence on job quality, lagged quantity effects): https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report.html  
 **- McKinsey Global Institute (2024) – A New Future of Work** (27–30% of hours automated; transitions): https://www.mckinsey.com/mgi/our-research/a-new-future-of-work-the-race-to-deploy-ai-and-raise-skills-in-europe-and-beyond  
-**- NBER Working Paper (2023) – Generative AI at Work** (contact‑center field study; +14% productivity): https://www.nber.org/system/files/working_papers/w31161/w31161.pdf  
-**- MIT Working Paper (2023) – Experimental Evidence on the Productivity Effects of Generative AI** (writing tasks; −37% time, +0.4 SD quality): https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf
+**- NBER Working Paper (2023) –** ***Generative AI at Work*** (contact‑center field study; +14% productivity): https://www.nber.org/system/files/working_papers/w31161/w31161.pdf  
+**- MIT Working Paper (2023) –** ***Experimental Evidence on the Productivity Effects of Generative AI*** (writing tasks; −37% time, +0.4 SD quality): https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf
 
 ---
 
 ### Endnotes (inline citations)
 
-[^8]: Brynjolfsson, E. et al. (2023). Generative AI at Work. NBER Working Paper w31161.  
-[^9]: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
-[^10]: Georgieva, K. (2024). AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. IMF Blog.  
-[^11]: ILO (2023). Generative AI and Jobs: A global analysis of potential effects on job quantity and quality.  
-[^12]: OECD (2023). Employment Outlook: Artificial
+1: Brynjolfsson, E. et al. (2023). Generative AI at Work. NBER Working Paper w31161.  
+2: Noy, S. & Zhang, W. (2023). Experimental Evidence on the Productivity Effects of Generative AI. MIT Working Paper.  
+3: Georgieva, K. (2024). AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity. IMF Blog.  
+4: ILO (2023). Generative AI and Jobs: A global analysis of potential effects on job quantity and quality.  
+5: OECD (2023). Employment Outlook: Artificial
