@@ -16,7 +16,7 @@ When people ask “Will AI take our jobs?”, they usually imagine whole occupat
 
 A good rule of thumb:
 
-| Today’s reality | What changes with AI |
+| **Today’s reality** | **What changes with AI** |
 |---|---|
 | Jobs are bundles of many tasks. | Some tasks get automated; the rest rise in relative importance. |
 | Experience → productivity gains. | AI can compress the experience curve for juniors. |
